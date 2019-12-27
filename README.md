@@ -1,5 +1,5 @@
 # 実行
 ```
 stack build
-stack exec my-project
+stack exec my-project-exe
 ```
